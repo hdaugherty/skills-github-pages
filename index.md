@@ -3,6 +3,6 @@ title: Welcome to my blog!
 ---
 
 
-##Hello##
+## Hello ##
 
 Welcome to my blog!
